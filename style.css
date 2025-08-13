@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #956cba;
+}
+
+.primary-color {
+    background-color: #956cba;
+}
+
+.secondary-color {
+    background-color: #d4c8e0;
+    -webkit-text-fill-color: rgb(51, 51, 51);
+}
